@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bolknoms</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="name_text">Naam*</string>
+    <string name="email_text">E-mail</string>
+    <string name="handicap_text">Handicap</string>
+    <string name="send_text">Aanmelden</string>
+    <string name="title_activity_confirm">ConfirmActivity</string>
+    <string name="confirmation_text">Aanmelding gelukt!</string>
+    <string name="let_op">Let op, aanmelden kan tot 15.00 uur.</string>
+    <string name="loading">Aanmelden...</string>
+    <string name="title_activity_fail">FailActivity</string>
+    <string name="fail_string">Er is iets fout gegaan, probeer het later opnieuw.</string>
+
+</resources>
